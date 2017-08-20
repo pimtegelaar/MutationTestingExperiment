@@ -35,10 +35,10 @@
                 <version>1.1.10</version>
                 <configuration>
                     <targetClasses>
-                        <param>org.tegeltech.mutationtestingexperiment*</param>
+                        <param>com.tegeltech.mutationtestingexperiment*</param>
                     </targetClasses>
                     <targetTests>
-                        <param>org.tegeltech.mutationtestingexperiment*</param>
+                        <param>com.tegeltech.mutationtestingexperiment*</param>
                     </targetTests>
                     <verbose>true</verbose>
                     <failWhenNoMutations>false</failWhenNoMutations>
