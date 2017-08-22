@@ -36,6 +36,8 @@ N.B. build 22 was accidentaly executed without changes
 
 Changes:
 
+| # | Duration | Sources | Tests | Total  | Status |
+|---|----------|---------|-------|--------|--------|
 | 2 | 9147 | 1 | 1 | 2 | SUCCESS |
 | 3 | 9899 | 1 | 1 | 2 | SUCCESS |
 | 4 | 11286 | 1 | 1 | 2 | SUCCESS |
