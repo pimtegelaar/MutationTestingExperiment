@@ -22,11 +22,20 @@ None:
 | 19 | 9035 | 1 | 0 | 1 | SUCCESS |
 | 20 | 8920 | 1 | 0 | 1 | SUCCESS |
 | 21 | 8974 | 1 | 0 | 1 | SUCCESS |
+| 23 | 9461 | 0 | 1 | 1 | SUCCESS |
+| 24 | 10082 | 0 | 1 | 1 | SUCCESS |
+| 25 | 10524 | 0 | 1 | 1 | SUCCESS |
+| 26 | 11115 | 0 | 1 | 1 | SUCCESS |
+| 27 | 11601 | 0 | 1 | 1 | SUCCESS |
+| 28 | 12211 | 0 | 1 | 1 | SUCCESS |
+| 29 | 12905 | 0 | 1 | 1 | SUCCESS |
+| 30 | 13113 | 0 | 1 | 1 | SUCCESS |
+| 31 | 13781 | 0 | 1 | 1 | SUCCESS |
+| 32 | 14364 | 0 | 1 | 1 | SUCCESS |
+N.B. build 22 was accidentaly executed without changes
 
 Changes:
 
-| # | Duration | Sources | Tests | Total  | Status |
-|---|----------|---------|-------|--------|--------|
 | 2 | 9147 | 1 | 1 | 2 | SUCCESS |
 | 3 | 9899 | 1 | 1 | 2 | SUCCESS |
 | 4 | 11286 | 1 | 1 | 2 | SUCCESS |
@@ -47,6 +56,16 @@ Changes:
 | 19 | 15477 | 1 | 0 | 1 | SUCCESS |
 | 20 | 15542 | 1 | 0 | 1 | SUCCESS |
 | 21 | 15578 | 1 | 0 | 1 | SUCCESS |
+| 22 | 19639 | 0 | 1 | 1 | SUCCESS |
+| 23 | 21007 | 0 | 1 | 1 | SUCCESS |
+| 24 | 22050 | 0 | 1 | 1 | SUCCESS |
+| 25 | 22954 | 0 | 1 | 1 | SUCCESS |
+| 26 | 24001 | 0 | 1 | 1 | SUCCESS |
+| 27 | 25140 | 0 | 1 | 1 | SUCCESS |
+| 28 | 26317 | 0 | 1 | 1 | SUCCESS |
+| 29 | 27432 | 0 | 1 | 1 | SUCCESS |
+| 30 | 28461 | 0 | 1 | 1 | SUCCESS |
+| 31 | 29581 | 0 | 1 | 1 | SUCCESS |
 
 Full:
 
@@ -72,3 +91,13 @@ Full:
 | 19 | 46080 | 1 | 0 | 1 | SUCCESS |
 | 20 | 45854 | 1 | 0 | 1 | SUCCESS |
 | 21 | 46087 | 1 | 0 | 1 | SUCCESS |
+| 22 | 49976 | 0 | 1 | 1 | SUCCESS |
+| 23 | 54210 | 0 | 1 | 1 | SUCCESS |
+| 24 | 58450 | 0 | 1 | 1 | SUCCESS |
+| 25 | 62368 | 0 | 1 | 1 | SUCCESS |
+| 26 | 66476 | 0 | 1 | 1 | SUCCESS |
+| 27 | 70475 | 0 | 1 | 1 | SUCCESS |
+| 28 | 74628 | 0 | 1 | 1 | SUCCESS |
+| 29 | 78582 | 0 | 1 | 1 | SUCCESS |
+| 30 | 82692 | 0 | 1 | 1 | SUCCESS |
+| 31 | 87492 | 0 | 1 | 1 | SUCCESS |
