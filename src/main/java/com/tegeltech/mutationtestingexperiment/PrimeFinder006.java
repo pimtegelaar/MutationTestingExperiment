@@ -9,4 +9,5 @@ public class PrimeFinder006 {
     }
     return true;
   }
+  // change 6
 }
