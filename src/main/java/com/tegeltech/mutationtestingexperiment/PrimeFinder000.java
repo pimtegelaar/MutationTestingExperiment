@@ -7,7 +7,7 @@ public class PrimeFinder000 {
                 return false;
             }
         }
-        return extraOperator(n) && extraOperator(n) && extraOperator(n) && extraOperator(n) && extraOperator(n) && extraOperator(n) && extraOperator(n) && extraOperator(n);
+        return extraOperator(n) && extraOperator(n) && extraOperator(n) && extraOperator(n) && extraOperator(n) && extraOperator(n) && extraOperator(n) && extraOperator(n) && extraOperator(n);
     }
 
     private boolean extraOperator(double n) {
