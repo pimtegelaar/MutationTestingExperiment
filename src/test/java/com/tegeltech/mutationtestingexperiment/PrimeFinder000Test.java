@@ -16,8 +16,8 @@ public class PrimeFinder000Test {
 
   @Test
   public void testCanDetermineThatBigPrimeIsPrime() {
-    boolean result = primeFinder000.isPrime(104395303D);
-//        boolean result = primeFinder000.isPrime(179424691d);
+//    boolean result = primeFinder000.isPrime(104395303D);
+        boolean result = primeFinder000.isPrime(179424691d);
 //        boolean result = primeFinder000.isPrime(256203221d);
 //        boolean result = primeFinder000.isPrime(334214467d);
 //        boolean result = primeFinder000.isPrime(413158523d);
