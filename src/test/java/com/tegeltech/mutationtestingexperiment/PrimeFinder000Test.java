@@ -25,8 +25,8 @@ public class PrimeFinder000Test {
 //        boolean result = primeFinder000.isPrime(573259433d);
 //        boolean result = primeFinder000.isPrime(654188429d);
 //        boolean result = primeFinder000.isPrime(735632797d);
-        boolean result = primeFinder000.isPrime(817504253d);
-//        boolean result = primeFinder000.isPrime(899809363d);
+//        boolean result = primeFinder000.isPrime(817504253d);
+        boolean result = primeFinder000.isPrime(899809363d);
     assertThat(result, is(true));
   }
 }
