@@ -4,4 +4,5 @@ public class Static1 {
     public static void doSomething() {
         System.out.println("Static 1");
     }
+    // 1
 }
