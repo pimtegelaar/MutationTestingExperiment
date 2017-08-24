@@ -32,9 +32,9 @@
             <plugin>
                 <groupId>org.pitest</groupId>
                 <artifactId>pitest-maven</artifactId>
-                <version>1.1.11-SNAPSHOT</version>
+                <version>1.1.10</version>
                 <configuration>
-                    <reportsDirectory>${project.build.directory}/../../pitreports-staticchanges</reportsDirectory>
+                    <reportsDirectory>${project.build.directory}/../../pitreports-staticfull</reportsDirectory>
                     <targetClasses>
                         <param>com.tegeltech.mutationtestingexperiment*</param>
                     </targetClasses>
